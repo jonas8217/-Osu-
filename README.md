@@ -1,2 +1,2 @@
 # \~Osu\~
-But it's a cliker game
+But it's a clicker game
