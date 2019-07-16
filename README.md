@@ -1,2 +1,2 @@
 # osu! clicker
-But it's a clicker game
+osu! but it's a clicker game
